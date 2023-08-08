@@ -17,6 +17,7 @@
 ## Test
 ```bash
 curl http://localhost:8080/greeting
+curl 'http://localhost:8080/greeting?name=Scott'
 ```
 
 ## Run as jar
